@@ -1,2 +1,2 @@
 # my-first-repo
-First time doing this coding thing!
+Yay, I'm really doing this thang!
